@@ -6,3 +6,4 @@ Created on Thu Nov 30 14:23:37 2023
 """
 
 print("Hello world")
+print("git practice")
